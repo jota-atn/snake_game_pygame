@@ -26,8 +26,8 @@ Este projeto foi uma maneira de me desafiar a entender e trabalhar com a bibliot
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-cobrinha.git
-   cd jogo-da-cobrinha
+   git clone https://github.com/jota-atn/snake_game_pygame.git
+   cd snake_game_pygame
    pip install pygame
    python main.py
 
